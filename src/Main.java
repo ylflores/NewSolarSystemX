@@ -7,7 +7,7 @@ public class Main {
 
         FeatureSun sun=new FeatureSun();
         sun.temperature=123;
-        sun.color="yellow";
+        sun.color=457575;
         sun.size=34839488;
     }
 }
