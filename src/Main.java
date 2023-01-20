@@ -4,5 +4,10 @@ public class Main {
         xx.moon=1;
         xx.sun=2;
         xx.planet=3;
+
+        FeatureSun sun=new FeatureSun();
+        sun.temperature=123;
+        sun.color="yellow";
+        sun.size=34839488;
     }
 }
